@@ -27,14 +27,6 @@ public class CheckoutTest extends Base {
     }
 
     @Test
-    public void logIn() throws IOException {
-        mainPage.goToLoginPage();
-        mainPage.logIn();
-        Assert.assertTrue(mainPage.linkSignOut.isDisplayed());
-        System.out.println("User has logged in");
-    }
-
-    @Test
     //Add item to cart test
     public void checkout() throws IOException {
         mainPage.goToProductPage("Adventure");
@@ -56,6 +48,7 @@ public class CheckoutTest extends Base {
         mainPage.logOut();
         Assert.assertTrue(mainPage.userLogInButton.isDisplayed());
         System.out.println("User has logged out");
+        driver.close();
     }
 
     @AfterSuite(alwaysRun = true)

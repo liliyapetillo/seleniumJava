@@ -4,6 +4,7 @@ import demoTestStore.Base;
 import demoTestStore.pages.MainPage;
 import org.testng.Assert;
 import org.testng.annotations.*;
+
 import java.io.IOException;
 
 @Listeners(listeners.ListenerTestNG.class)
@@ -27,11 +28,12 @@ public class MainPageTest extends Base {
         System.out.println("User has logged in");
     }
 
-    @AfterSuite
+    @AfterMethod
     public void logout() {
         mainPage.logOut();
         Assert.assertTrue(mainPage.userLogInButton.isDisplayed());
         System.out.println("User has logged out");
+        driver.close();
     }
 
     @AfterSuite(alwaysRun = true)

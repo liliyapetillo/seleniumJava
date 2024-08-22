@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cd87f5e-5461-4ea7-a0b4-d775f5e70cfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Results - SignUpPageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_40_41_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_41_06_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_43_05_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_46_52_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_54_47_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_57_34_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_18_00_08_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_18_10_57_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_18_15_19_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/search_Tue_Aug_13_20_03_28_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_23_12_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_24_15_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_27_03_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_27_56_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_17_26_19_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_41_16_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_47_02_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_54_57_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_57_44_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_18_00_18_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_18_11_09_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_18_15_31_EDT_2024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Test Results - SignUpPageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/browsers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/Section11/L03a_TestngXml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/Section11/L08_Annotation_Pt1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/Section11/L09_Annotation_Pt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/example/demo/MainPage2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/example/demo/MainPage2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/MainPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/MainPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/SignUpPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/SignUpPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/bin/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/src/test/java/listeners/ListenerTestNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/CheckoutCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/CheckoutCartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/CheckoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/CheckoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/MainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/MainPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/SignUpPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/SignUpPageTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2l1eHOasSqHM95N97RzXltl0IcG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.CheckoutTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckoutTest.checkout.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckoutTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MainPageTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MainPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignUpPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liliya.vovk/Desktop/Automation/demoTestStore/src/test/java/demoTestStore&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/demoTestStore" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demoTestStore" />
+      <recent name="demoTestStore.pages" />
+      <recent name="demoTestStore.tests" />
+      <recent name="listeners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MainPageTest (1)">
+    <configuration name="CheckoutTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoTestStore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoTestStore.tests" />
+      <option name="MAIN_CLASS_NAME" value="demoTestStore.tests.CheckoutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoTestStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoTestStore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoTestStore.tests" />
+      <option name="MAIN_CLASS_NAME" value="demoTestStore.tests.CheckoutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTest.checkout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoTestStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoTestStore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoTestStore.tests" />
+      <option name="MAIN_CLASS_NAME" value="demoTestStore.tests.CheckoutTest" />
+      <option name="METHOD_NAME" value="checkout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPageTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoTestStore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoTestStore.tests" />
+      <option name="MAIN_CLASS_NAME" value="demoTestStore.tests.MainPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoTestStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demoTestStore.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demoTestStore.tests" />
+      <option name="MAIN_CLASS_NAME" value="demoTestStore.tests.SignUpPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MainPageTest (1)" />
+        <item itemvalue="TestNG.CheckoutTest (1)" />
+        <item itemvalue="TestNG.CheckoutTest" />
+        <item itemvalue="TestNG.CheckoutTest.checkout" />
+        <item itemvalue="TestNG.SignUpPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastUrl" value="https://teststore.automationtesting.co.uk/index.php?controller=order" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd87f5e-5461-4ea7-a0b4-d775f5e70cfa" name="Changes" comment="" />
+      <created>1724351923563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724351923563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,9 +1,12 @@
 package demoTestStore.pages;
 
 import demoTestStore.Base;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
 import java.io.IOException;
 
 
@@ -27,6 +30,9 @@ public class MainPage extends Base {
     public WebElement productMiniature1;
 
     By productMiniature = By.xpath("//div[@class='products row']/div");
+
+    @FindBy(css = "div[class='user-info']")
+    public WebElement userInfoButton;
 
     @FindBy(css = ".logout")
     public WebElement linkSignOut;
@@ -54,7 +60,10 @@ public class MainPage extends Base {
     }
 
     public void logOut() {
-        clickElement(linkSignOut, 5);
-        waitForElementVisible(userLogInButton, 10);
+        clickElement(userInfoButton, 5);
+        String userInfo = userLogInButton.getText();
+        if (userInfo.contains("Sign out")){
+            clickElement(userInfoButton, 5);
+        }
     }
 }

@@ -4,6 +4,7 @@ import demoTestStore.Base;
 import demoTestStore.pages.SignUpPage;
 import org.testng.Assert;
 import org.testng.annotations.*;
+
 import java.io.IOException;
 
 @Listeners(listeners.ListenerTestNG.class)
@@ -12,7 +13,7 @@ public class SignUpPageTest extends Base {
 
     private SignUpPage signUpPage;
 
-    @BeforeMethod
+    @BeforeSuite
     public void setUp() throws IOException {
         initialize();
         getUrl();
@@ -29,6 +30,7 @@ public class SignUpPageTest extends Base {
     public void logout(){
         signUpPage.logOut();
         System.out.println("User has logged out");
+        driver.close();
     }
 
     @AfterSuite(alwaysRun = true)

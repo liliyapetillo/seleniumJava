@@ -12,6 +12,8 @@ import java.util.Locale;
 
 public class CheckoutCartPage extends Base {
 
+    private MainPage mainPage;
+
     @FindBy(xpath = "//a[@href='#promo-code']")
     public WebElement linkHavePromoCode;
 
@@ -76,8 +78,6 @@ public class CheckoutCartPage extends Base {
         PageFactory.initElements(driver, this);
         mainPage = new MainPage(driver);
     }
-
-    private final MainPage mainPage;
 
     public void addPromoCode() {
         clickElement(linkHavePromoCode, 5);
