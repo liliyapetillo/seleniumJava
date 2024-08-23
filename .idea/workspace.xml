@@ -5,67 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cd87f5e-5461-4ea7-a0b4-d775f5e70cfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Results - SignUpPageTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_40_41_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_41_06_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_43_05_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_46_52_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_54_47_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_17_57_34_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_18_00_08_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_18_10_57_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/logIn_Tue_Aug_13_18_15_19_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/search_Tue_Aug_13_20_03_28_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_23_12_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_24_15_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_27_03_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_15_27_56_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/signup_Tue_Aug_13_17_26_19_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_41_16_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_47_02_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_54_57_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_17_57_44_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_18_00_18_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_18_11_09_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Screenshots/test_Tue_Aug_13_18_15_31_EDT_2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Test Results - SignUpPageTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/browsers.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/Section11/L03a_TestngXml.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/Section11/L08_Annotation_Pt1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/Section11/L09_Annotation_Pt2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/example/demo/MainPage2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/com/example/demo/MainPage2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/MainPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/MainPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/SignUpPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/SignUpPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/bin/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/demoTestStore/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/src/test/java/listeners/ListenerTestNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/CheckoutCartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/CheckoutCartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/CheckoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/CheckoutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/MainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/MainPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/SignUpPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoTestStore/tests/SignUpPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
