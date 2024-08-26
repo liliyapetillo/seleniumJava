@@ -14,6 +14,7 @@ You can see use of things like:
 # Future Improvements
 * Enhanced logging
 * Jenkins integration
+* Cross-browser support 
 * Additional test cases (e.g., account data manipulation, checkout and receipt validation, product selection filtering)
 
 # Running Tests
