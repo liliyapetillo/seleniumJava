@@ -18,8 +18,12 @@ You can see use of things like:
 
 # Running Tests
 * Clone the repository
+* Install maven to be able to run tests from the terminal `brew install maven`
 * Navigate to the project directory and run `mvn test` in the terminal
-* Alternatively, execute test suites from your preferred IDE
+
+Alternatively
+* Clone the repository
+* Execute test suites from your preferred IDE
 ##
 For issues or queries, please contact me at liliya.vovk.17@gmail.com.
 
